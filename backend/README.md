@@ -33,7 +33,7 @@ Após o clone desse repositório e o download das [dependências necessárias](#
 **Atenção:** Caso tenha problemas para rodar `yarn start` em um SO Linux, tente `sudo yarn start` . 
 
 ## Executar rotina de testes(Não finalizado)
-Basta executar `yarn test` dentro do diretório /backend
+Basta executar `yarn test` dentro do diretório /backend.
 
 ## Bibliotecas Utilizadas
 
