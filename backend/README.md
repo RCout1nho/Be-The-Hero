@@ -13,6 +13,7 @@
 * [Dependências Necessárias](#dependências-necessárias)
 * [Como executar](#como-executar)
 * [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
+* [Rotina de Testes](executar-rotina-de-testes(não-finalizado))
 
 ## Sobre o projeto
 Trata-se de uma **API RESTFUL** desenvolvida em nodeJS responsável pela interação com um banco de dados SQLite, que armazena dados referentes às informações necessárias para a realização das ações de <strong style="color: #31BE2E">POST</strong>, <strong style="color: #AB77F0">GET</strong> e <strong style="color: #B81531">DELETE</strong> de dados.
@@ -31,6 +32,8 @@ Após o clone desse repositório e o download das [dependências necessárias](#
 
 **Atenção:** Caso tenha problemas para rodar `yarn start` em um SO Linux, tente `sudo yarn start` . 
 
+## Executar rotina de testes(Não finalizado)
+Basta executar `yarn test` dentro do diretório /backend
 
 ## Bibliotecas Utilizadas
 
