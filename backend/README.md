@@ -1,4 +1,3 @@
-<html>
 <h1 align="center">
             <img src="./assets/logo.svg" alt="Be The Hero" width="100px" height="100px">
             <img src="./assets/nodeJS.png" alt="Be The Hero" width="100px" height="100px">
