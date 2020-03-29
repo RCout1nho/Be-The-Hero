@@ -31,6 +31,8 @@ Após o clone desse repositório e o download das [dependências necessárias](#
 
 **Atenção:** Caso tenha problemas para rodar `yarn start` em um SO Linux, tente `sudo yarn start` . 
 
+**Atenção**  Caso precisa resetar o banco de dados, basta executar `npx knex migrate:rollback` dentro de /backend, para recriar o banco de dados, basta executar `npx knex migrate:latest`
+
 ## Executar rotina de testes(Não finalizado)
 Basta executar `yarn test` dentro do diretório /backend.
 
