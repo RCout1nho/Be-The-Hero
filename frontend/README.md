@@ -18,7 +18,7 @@ Trata-se de uma aplicação frontend desenvolvida em ReactJS que consome informa
 
 ## Capturas de Tela
 
-<h1 align="space-between">
+<h1 align="center">
     <img src="./assets/prints/Login.png" alt="Be The Hero" width="340px" height="200px" >
     <img src="./assets/prints/Cadastro.png" alt="Be The Hero" width="340px" height="200px">
     <img src="./assets/prints/CadastroAlerta.png" alt="Be The Hero" width="340px" height="200px">
