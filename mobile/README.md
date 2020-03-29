@@ -40,18 +40,16 @@ Após o clone desse repositório e o download das [dependências necessárias](#
 
 Após executado `yarn start` será aberta uma página do **expo** no seu browser, você terá a opção de executar a aplicação em um emulador local ou no seu dispositivo físico(Baixe o app expo da loja do SO do seu smartphone e escanei o QRCode).
 
-**Atenção:** Por padrão, a aplicação é executada em http://192.168.0.10:3333, altere as constantes `url` e `port` em /mobile/src/services/api.js de acordo com a utilizada - A `url` deve corresponser à url mostrada no **canto inferior esquerdo do expo**(sem a porta), exemplo: se no expo está "http://192.168.0.10:1900", o valor de `url` deve ser `http://192.168.0.10` ou seja:
+**Atenção:** Por padrão, a aplicação é executada em http://192.168.0.10:3333, altere as constantes `url` e `port` em ./mobile/src/services/api.js de acordo com a utilizada - A `url` deve corresponder à url mostrada no **canto inferior esquerdo do expo**(sem a porta), exemplo: se no expo está "http://192.168.0.10:1900", o valor de `url` deve ser `http://192.168.0.10` ou seja:
 
  `const url ="http://192.168.0.10"` 
 
- Já o valor de `port` deve corresponder a porta onde está rodando a **api do backend** que por padrão é 3333, porém pode ser alterada caso haja necessidade diretamente no script de /backend, certifique que portas utilizadas em `/mobile/src/services/api.js` e em `backend/src/services/api.js` são iguais, caso contrário, a aplicação mobile não conseguirá acessar a api. 
+ Já o valor de `port` deve corresponder a porta onde está rodando a **api do backend** que por padrão é 3333, porém pode ser alterada caso haja necessidade diretamente no script de /backend, certifique que portas utilizadas em `./mobile/src/services/api.js` e em `./backend/src/server.js` são iguais, caso contrário, a aplicação mobile não conseguirá acessar a api. 
 
 **Atenção:** Caso tenha problemas para rodar `yarn start` em um SO Linux, tente `sudo yarn start` . 
 
-**Atenção:** Lembre-se de executar o [backend](https://github.com/RCout1nho/Be-The-Hero/blob/master/backend/README.md#como-executar) para que o frontend possa fazer interações com  api.
+**Atenção:** Lembre-se de executar o [backend](https://github.com/RCout1nho/Be-The-Hero/blob/master/backend/README.md#como-executar) para que o mobile possa fazer interações com  api.
 
-**Atenção:** Caso seu backend esteja rodando em um endereço diferente de http://localhost:3333 é possível alterar o endereço de acesso à api em ./frontend/src/services/api.js , apenas alterando a `baseURL`
-.
 
 ## Bibliotecas Utilizadas
 
