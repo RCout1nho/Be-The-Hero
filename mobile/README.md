@@ -1,6 +1,6 @@
 <h1 align="center">
             <img src="./assets/logo.svg" alt="Be The Hero" width="100px" height="100px">
-            <img src="./assets/react-native.png" alt="Be The Hero" width="150px" height="100px">
+            <img src="./assets/react-native.png" alt="Be The Hero" width="100px" height="100px">
             <img src="./assets/expo.png" alt="Be The Hero" width="90px" height="90px">
     <p align="center"><strong>BE THE HERO</strong></p>
     <p align="center">Mobile com React Native e Expo</P>
@@ -9,7 +9,7 @@
 ## Conteúdo
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Capturas de Tela](#capturas-de-tela)
-* [Feito Com](#sobre-o-projeto)
+* [Feito Com](#feito-com)
 * [Dependências Necessárias](#dependências-necessárias)
 * [Como executar](#como-executar)
 * [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
