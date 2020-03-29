@@ -33,7 +33,7 @@ Trata-se de uma aplicação mobile multiplataforma desenvolvida com [React Nativ
 * [Expo](https://expo.io/)
 
 ## Dependências Necessárias
-Para rodar o projeto você precisa ter instalado na sua máquina o [node](https://nodejs.org/en/download/), [yarn](https://yarnpkg.com/) e das [dependências específicas de React Native](https://docs.rocketseat.dev/ambiente-react-native/introducao).
+Para rodar o projeto você precisa ter instalado na sua máquina o [node](https://nodejs.org/en/download/), [yarn](https://yarnpkg.com/) e as [dependências específicas de React Native](https://docs.rocketseat.dev/ambiente-react-native/introducao).
 
 ## Como executar
 Após o clone desse repositório e o download das [dependências necessárias](#dependências-Necessárias), dentro no diretório /mobile execute: `yarn install`  para instalação das dependêcias, e em seguida `yarn start` para rodar a aplicação.
