@@ -8,7 +8,7 @@
 ## Conteúdo
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Capturas de Tela](#capturas-de-tela)
-* [Feito Com](#sobre-o-projeto)
+* [Feito Com](#feito-com)
 * [Dependências Necessárias](#dependências-necessárias)
 * [Como executar](#como-executar)
 * [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
